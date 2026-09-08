@@ -123,12 +123,12 @@ Hands-on projects focused on cloud infrastructure, automation and deployment.
 | | Details |
 |---|---|
 | 🟢 **Activity** | Public Push / Commit |
-| 📅 **Date** | 05 September 2026, 11:43 PM |
+| 📅 **Date** | 06 September 2026, 08:07 PM |
 | 📂 **Repository** | [HarshitMali930/HarshitMali930](https://github.com/HarshitMali930/HarshitMali930) |
 | 📝 **Latest Commit** | Latest push |
 
 <p align="center">
-  <a href="https://github.com/HarshitMali930/HarshitMali930/commit/93414c58a74c906e8a265130d4edf0ad497668c8">
+  <a href="https://github.com/HarshitMali930/HarshitMali930/commit/dfdc3e347096e4482aee02f10adc2dc552774dce">
     <img src="https://img.shields.io/badge/View%20Latest%20Activity-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
