@@ -129,7 +129,6 @@ Hands-on projects focused on cloud infrastructure, automation and deployment.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitMali930&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🤝 Connect With Me
