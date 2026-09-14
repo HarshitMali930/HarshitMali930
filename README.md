@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshitmali930-cyber&label=Profile%20Views&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=HarshitMali930&label=Profile%20Views&style=for-the-badge" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=harshitmali930-cyber&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=HarshitMali930&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ Infrastructure automation, configuration management and DevOps workflow practice
 
 <br>
 
-<a href="https://github.com/harshitmali930-cyber/devops-week6">
+<a href="https://github.com/HarshitMali930/devops-week6">
 🔗 View Repository
 </a>
 
@@ -93,7 +93,7 @@ Hands-on projects focused on cloud infrastructure, automation and deployment.
 
 <br>
 
-<a href="https://github.com/harshitmali930-cyber?tab=repositories">
+<a href="https://github.com/HarshitMali930?tab=repositories">
 🔗 View My Repositories
 </a>
 
@@ -107,7 +107,7 @@ Hands-on projects focused on cloud infrastructure, automation and deployment.
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=harshitmali930-cyber&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=HarshitMali930&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -115,7 +115,7 @@ Hands-on projects focused on cloud infrastructure, automation and deployment.
 ## 🐍 My Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshitmali930-cyber/Harshitmali/gh-pages/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/HarshitMali930/HarshitMali930/gh-pages/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -123,11 +123,11 @@ Hands-on projects focused on cloud infrastructure, automation and deployment.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitmali930-cyber&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshitMali930&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitmali930-cyber&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitMali930&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -140,7 +140,7 @@ Hands-on projects focused on cloud infrastructure, automation and deployment.
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/harshitmali930-cyber">
+<a href="https://github.com/HarshitMali930">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
 </a>
 
