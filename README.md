@@ -33,7 +33,7 @@ I'm a B.Tech student passionate about **Cloud Computing, DevOps, and Automation*
 - 🐳 Working with **Docker & Containerization**
 - 🔧 Practicing **Terraform & Ansible**
 - 🚀 Building **CI/CD pipelines with Jenkins**
-- 🐧 Comfortable with **Linux & Git**
+- 🐧 Working with **Linux & Git**
 - 📚 Always learning and improving my technical skills
 
 > **"Learn. Build. Automate. Repeat. 🚀"**
@@ -75,6 +75,8 @@ I'm a B.Tech student passionate about **Cloud Computing, DevOps, and Automation*
 
 Infrastructure automation, configuration management and DevOps workflow practice.
 
+<br>
+
 <a href="https://github.com/harshitmali930-cyber/devops-week6">
 🔗 View Repository
 </a>
@@ -88,6 +90,8 @@ Infrastructure automation, configuration management and DevOps workflow practice
 **AWS • Docker • Linux • CI/CD**
 
 Hands-on projects focused on cloud infrastructure, automation and deployment.
+
+<br>
 
 <a href="https://github.com/harshitmali930-cyber?tab=repositories">
 🔗 View My Repositories
@@ -108,32 +112,23 @@ Hands-on projects focused on cloud infrastructure, automation and deployment.
 
 ---
 
-
 ## 🐍 My Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/harshitmali930-cyber/Harshitmali/gh-pages/github-contribution-grid-snake.svg" />
 </p>
+
 ---
 
-<!-- ACTIVITY_START -->
-
-## 🕐 Latest GitHub Activity
-
-| | Details |
-|---|---|
-| 🟢 **Activity** | Public Push / Commit |
-| 📅 **Date** | 06 September 2026, 08:07 PM |
-| 📂 **Repository** | [HarshitMali930/HarshitMali930](https://github.com/HarshitMali930/HarshitMali930) |
-| 📝 **Latest Commit** | Latest push |
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/HarshitMali930/HarshitMali930/commit/dfdc3e347096e4482aee02f10adc2dc552774dce">
-    <img src="https://img.shields.io/badge/View%20Latest%20Activity-181717?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitmali930-cyber&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- ACTIVITY_END -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitmali930-cyber&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -142,20 +137,20 @@ Hands-on projects focused on cloud infrastructure, automation and deployment.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/harshit-mali-7a9b73317/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/harshitmali930-cyber">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
 </a>
 
 </p>
+
+---
 
 <p align="center">
   💼 Open to Cloud & DevOps opportunities
 </p>
-
----
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
