@@ -119,9 +119,26 @@ Hands-on projects focused on cloud infrastructure, automation and deployment.
 </p>
 
 ---
-<!-- ACTIVITY_START --> ## 🕐 Latest GitHub Activity | | Details | |---|---| | 🟢 **Activity** | Public Push / Commit | | 📅 **Date** | 06 September 2026, 08:07 PM | | 📂 **Repository** | 
-HarshitMali930/HarshitMali930 | | 📝 **Latest Commit** | Latest push | <p align="center"> <a href="https://github.com/HarshitMali930/HarshitMali930/commit/dfdc3e347096e4482aee02f10adc2dc552774dce"> <img src="https://img.shields.io/badge/View%20Latest%20Activity-181717?style=for-the-badge&logo=github" /> </a> </p> <!-- ACTIVITY_END --> ---
+<!-- ACTIVITY_START -->
 
+## 🕐 Latest GitHub Activity
+
+| | Details |
+|---|---|
+| 🟢 **Activity** | Public Push / Commit |
+| 📅 **Date** | 06 September 2026, 08:07 PM |
+| 📂 **Repository** | [HarshitMali930/HarshitMali930](https://github.com/HarshitMali930/HarshitMali930) |
+| 📝 **Latest Commit** | Latest push |
+
+<p align="center">
+  <a href="https://github.com/HarshitMali930/HarshitMali930/commit/dfdc3e347096e4482aee02f10adc2dc552774dce">
+    <img src="https://img.shields.io/badge/View%20Latest%20Activity-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<!-- ACTIVITY_END -->
+
+---
 ## 🤝 Connect With Me
 
 <p align="center">
