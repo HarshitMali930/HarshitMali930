@@ -126,12 +126,12 @@ Hands-on projects focused on cloud infrastructure, automation and deployment.
 | | Details |
 |---|---|
 | 🟢 **Activity** | Public Push / Commit |
-| 📅 **Date** | 21 September 2026, 10:48 PM |
+| 📅 **Date** | 22 September 2026, 06:58 PM |
 | 📂 **Repository** | [HarshitMali930/jenkins-cicd-demo](https://github.com/HarshitMali930/jenkins-cicd-demo) |
 | 📝 **Latest Commit** | Latest push |
 
 <p align="center">
-  <a href="https://github.com/HarshitMali930/jenkins-cicd-demo/commit/74dda1239f0247509aeee1e6b2cb651138e19820">
+  <a href="https://github.com/HarshitMali930/jenkins-cicd-demo/commit/0a77d8437b5487e46192822013b8d2e7c9aa1fbe">
     <img src="https://img.shields.io/badge/View%20Latest%20Activity-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
