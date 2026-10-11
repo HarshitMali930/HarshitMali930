@@ -126,12 +126,12 @@ Hands-on projects focused on cloud infrastructure, automation and deployment.
 | | Details |
 |---|---|
 | 🟢 **Activity** | Public Push / Commit |
-| 📅 **Date** | 10 October 2026, 10:19 PM |
+| 📅 **Date** | 11 October 2026, 10:34 PM |
 | 📂 **Repository** | [HarshitMali930/final-ecommerce-devops](https://github.com/HarshitMali930/final-ecommerce-devops) |
 | 📝 **Latest Commit** | Latest push |
 
 <p align="center">
-  <a href="https://github.com/HarshitMali930/final-ecommerce-devops/commit/625ad31be6d873af9baafe52327a8f12dc445256">
+  <a href="https://github.com/HarshitMali930/final-ecommerce-devops/commit/0dd7823ea0e827e44aa0389deb4053c260972b47">
     <img src="https://img.shields.io/badge/View%20Latest%20Activity-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
